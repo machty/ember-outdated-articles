@@ -1,0 +1,11 @@
+{
+  "author": "quiit",
+  "contact": "http://www.codeproject.com/script/Membership/View.aspx?mid=9651076",
+  "title": "A sample real-time web application using Ember.js, REST API, and SignalR",
+  "publicationDate": "2012-12-21",
+  "url": "http://www.codeproject.com/Articles/511031/A-sample-real-time-web-application-using-Ember-js",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "1.0-pre2"
+  }
+}

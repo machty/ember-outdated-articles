@@ -1,0 +1,11 @@
+{
+  "author": "Duncan Gunn",
+  "contact": "@binaryforge",
+  "title": "Hello World using Ember.js",
+  "publicationDate": "2012-06-28",
+  "url": "http://www.codeproject.com/Articles/412225/Hello-World-using-Ember-js",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "0.9.*"
+  }
+}
