@@ -1,13 +1,12 @@
 {
   "author": "Trek Glowacki",
-  "email": "trek.glowacki@gmail.com",
+  "contact": "trek.glowacki@gmail.com",
   "title": "Advice on & Instruction in the Use Of Ember.js",
   "publicationDate": "2012-08-30",
   "url": "http://trek.github.com",
   "contains": {
     "sampleCode": true,
     "comparison": true,
-    "criticism": false,
     "advice": true,
     "opinion": true,
     "emberVersion": "1.0.pre2"
