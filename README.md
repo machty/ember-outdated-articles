@@ -1,5 +1,5 @@
 # Help! I need somebody...
-Whoa, many bits have been spilled about Ember. But the Ember of today is hardly Ember of yesteryear.  I'm compiling a list of outdated Ember articles (there's a funny venn-diagram joke in there) so I can contact their authors and ask them to include a notice.
+Whoa, many bits have been spilled about Ember. But the Ember of today is hardly Ember of yesteryear. I'm compiling a list of outdated Ember articles (there's a funny venn-diagram joke in there) so I can contact their authors and ask them to include a notice.
 
 Something like:
 

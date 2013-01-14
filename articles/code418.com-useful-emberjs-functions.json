@@ -1,0 +1,10 @@
+{
+  "author": "Clemens Müller",
+  "title": "Useful Ember.js Functions",
+  "publicationDate": "2012-03-08",
+  "url": "http://code418.com/blog/2012/03/08/useful-emberjs-functions",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "0.9.5"
+  }
+}
