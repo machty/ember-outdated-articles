@@ -1,0 +1,12 @@
+{
+  "author": "Alexei Boronine",
+  "title": "Asynchronous Form Field Validation With Ember",
+  "contact": "@boronine",
+  "publicationDate": "2012-08-09",
+  "url": "http://boronine.com/2012/08/09/Asynchronous-Form-Field-Validation-With-Ember/",
+  "contains": {
+    "advice": true,
+    "sampleCode": true,
+    "emberVersion": "1.0pre"
+  }
+}
