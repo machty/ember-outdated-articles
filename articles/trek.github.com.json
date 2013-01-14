@@ -7,7 +7,7 @@
   "contains": {
     "sampleCode": true,
     "comparison": true,
-    "criticism": false
+    "criticism": false,
     "advice": true,
     "opinion": true,
     "emberVersion": "1.0.pre2"
