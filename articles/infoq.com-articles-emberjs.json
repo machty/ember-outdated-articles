@@ -1,0 +1,12 @@
+{
+  "author": "Joachim Haagen Skeie",
+  "contact": "joachim@haagen.name",
+  "title": "Ember.js: Rich Web Applications Done Right",
+  "publicationDate": "2012-03-22",
+  "url": "http://www.infoq.com/articles/emberjs",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "0.9.4"
+  }
+}
+
