@@ -1,0 +1,11 @@
+{
+  "author": "Toran Billups",
+  "contact": "toranb@gmail.com",
+  "title": "Getting started with ember.js",
+  "publicationDate": "2012-10-14",
+  "url": "http://toranbillups.com/blog/archive/2012/10/14/Getting-started-with-ember-js/",
+  "contains": {
+    "video": true,
+    "emberVersion": "1.01pre1"
+  }
+}
