@@ -1,0 +1,10 @@
+{
+  "author": "Adeniyi Adekoya",
+  "title": "Getting Started With EmberJS",
+  "publicationDate": "2012-07-04",
+  "url": "http://www.stackarena.com/2012/07/getting-started-with-emberjs/",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "0.9.8.1"
+  }
+}

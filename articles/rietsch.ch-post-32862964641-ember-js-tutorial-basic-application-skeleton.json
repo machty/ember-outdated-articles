@@ -1,0 +1,10 @@
+{
+  "author": "Thierry Rietsch",
+  "title": "ember.js tutorial - basic application skeleton",
+  "publicationDate": "2012-10-04",
+  "url": "http://www.rietsch.ch/post/32862964641/ember-js-tutorial-basic-application-skeleton",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "1.0pre"
+  }
+}
