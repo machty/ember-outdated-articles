@@ -1,0 +1,10 @@
+{
+  "author": "Chris Meyers",
+  "title": "Ember.js Handlebars View content Inheritance + Image Upload Preview + View Object Binding",
+  "publicationDate": "2012-06-12",
+  "url": "http://chrismeyers.org/2012/06/12/ember-js-handlebars-view-content-inheritance-image-upload-preview-view-object-binding/",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "0.9.*"
+  }
+}

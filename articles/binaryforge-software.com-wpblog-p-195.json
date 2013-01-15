@@ -1,0 +1,11 @@
+{
+  "author": "Duncan M. Gunn",
+  "contact": "http://ephptutorial.wordpress.com/about/",
+  "title": "Ember.js – Hello World tutorial",
+  "publicationDate": "2012-06-28",
+  "url": "http://www.binaryforge-software.com/wpblog/?p=195",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "0.9.*"
+  }
+}

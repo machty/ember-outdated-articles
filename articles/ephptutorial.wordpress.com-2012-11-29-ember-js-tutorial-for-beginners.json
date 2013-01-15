@@ -1,0 +1,11 @@
+{
+  "author": "pramodhs",
+  "contact": "http://ephptutorial.wordpress.com/about/",
+  "title": "Ember.js tutorial for beginners",
+  "publicationDate": "2012-11-29",
+  "url": "http://ephptutorial.wordpress.com/2012/11/29/ember-js-tutorial-for-beginners/",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "1.0-pre2"
+  }
+}
