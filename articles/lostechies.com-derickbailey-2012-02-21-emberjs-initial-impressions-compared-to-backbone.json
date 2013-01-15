@@ -1,0 +1,11 @@
+{
+  "author": "Derick Bailey",
+  "contact": "derickbailey@gmail.com",
+  "title": "EmberJS: Initial Impressions (Compared To Backbone)",
+  "publicationDate": "2012-02-21",
+  "url": "http://lostechies.com/derickbailey/2012/02/21/emberjs-initial-impressions-compared-to-backbone/",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "0.9.5"
+  }
+}
