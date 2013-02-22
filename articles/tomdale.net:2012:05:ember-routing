@@ -1,0 +1,11 @@
+{
+  "author": "Tom Dale",
+  "contact": "@tomdale",
+  "title": "Our Approach to Routing in Ember.js",
+  "publicationDate": "2012-05-14",
+  "url": "http://tomdale.net/2012/05/ember-routing/",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": ""
+  }
+}

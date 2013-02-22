@@ -1,0 +1,11 @@
+{
+  "author": "Paul Cowan",
+  "contact": "dagda1@scotalt.net",
+  "title": "Ember.js - Routing With States",
+  "publicationDate": "2012-04-22",
+  "url": "http://www.thesoftwaresimpleton.com/blog/2012/04/22/ember-js-routemanager/",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": ""
+  }
+}

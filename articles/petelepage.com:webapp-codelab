@@ -1,0 +1,10 @@
+{
+  "author": "Paul Cowan",
+  "contact": "dagda1@scotalt.net",
+  "title": "Unit Testing Ember.js, How I Learned to Stop Worrying and Love the Runloop",
+  "publicationDate": "2012-04-03",
+  "url": "http://www.thesoftwaresimpleton.com/blog/2012/04/03/testing-ember-and-the-runloop/",
+  "contains": {
+    "sampleCode": true,
+  }
+}

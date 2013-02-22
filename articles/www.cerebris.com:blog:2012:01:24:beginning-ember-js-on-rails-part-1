@@ -1,0 +1,15 @@
+{
+  "author": "Dan Gebhardt",
+  "title": "Beginning Ember.js on Rails",
+  "publicationDate": "2012-01-24",
+  "url": [
+    "http://www.cerebris.com/blog/2012/01/24/beginning-ember-js-on-rails-part-1/",
+    "http://www.cerebris.com/blog/2012/01/26/beginning-ember-js-on-rails-part-2/",
+    "http://www.cerebris.com/blog/2012/01/31/beginning-ember-js-on-rails-part-3/"
+  ],
+  "contains": {
+    "sampleCode": true,
+    "advice": true,
+    "emberVersion": "1.0.pre2"
+  }
+}

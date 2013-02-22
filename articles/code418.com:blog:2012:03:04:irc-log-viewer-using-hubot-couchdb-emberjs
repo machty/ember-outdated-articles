@@ -1,0 +1,11 @@
+{
+  "author": "Clemens Müller",
+  "contact": "@pangratz",
+  "title": "IRC Log Viewer Using Hubot, CouchDB and Ember.js",
+  "publicationDate": "2012-03-04",
+  "url": "http://code418.com/blog/2012/03/04/irc-log-viewer-using-hubot-couchdb-emberjs/",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": "0.9.4"
+  }
+}

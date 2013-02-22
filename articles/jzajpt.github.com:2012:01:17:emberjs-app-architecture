@@ -1,0 +1,12 @@
+{
+  "author": "Jiri Zajpt",
+  "contact": "jz@blueberry.cz",
+  "title": "The architecture of Ember.js apps - data",
+  "publicationDate": "2012-01-24",
+  "url": "http://jzajpt.github.com/2012/01/17/emberjs-app-architecture.html
+",
+  "contains": {
+    "sampleCode": true,
+    "emberVersion": ""
+  }
+}

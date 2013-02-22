@@ -1,0 +1,11 @@
+{
+  "author": "Gordon Hempton",
+  "title": "Eight Ember.js Gotchas With Workarounds",
+  "publicationDate": "2012-03-11",
+  "url": "http://codebrief.com/2012/03/eight-ember-dot-js-gotchas-with-workarounds/",
+  "contains": {
+    "sampleCode": true,
+    "advice": true,
+    "emberVersion": "0.9.7"
+  }
+}
